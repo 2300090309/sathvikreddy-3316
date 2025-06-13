@@ -1,9 +1,9 @@
-API is Application Programming Interface, that allows different software applications to communicate with each other. It enables developers to access specific features or data from a service without needing to understand its complex internal operations.
+"API stands for Application Programming Interface. It allows different software applications to communicate with each other. Think of it like a bridge that lets developers access specific features or data from a service without needing to understand all its internal workings.
 
-For example chatgpt is a service from OpenAI. If you want to use chatgpt like features in your own application, you will need to use API from OpenAI. Service providers sell their API subsciptions. OpenAI API will cost you depending on how much you use it. 
+For example, ChatGPT is a service from OpenAI. If I want to use ChatGPT-like features in my own app or website, I’ll need to use their API—which usually comes with a cost depending on how much I use it.
 
-This video is exciting because we have a way to get the API from an AI that will not cost anything. We can use AI for free in our own application. 
+But here’s the exciting part: in this video, I’ll show you how to get access to an AI API completely for free! Yes, you can use AI in your own application without paying anything.
 
-Imagine if you are a wordpress developer or react js developer, you can integrate AI in your own website without paying anything. You can integrate AI in your clients websites. All you have to do is to get a free API key from a provider.
+If you're a WordPress developer or ReactJS developer, this is a game-changer. You can now integrate AI into your own or your client’s websites—at zero cost. All you need is a free API key from a provider.
 
-Now i can get the key from gemini platform also, but that will cost me. So I will use a free API provider that allows us to use AI API for free. So let's make our own AI Chatbot with gemini API (100% Free!).
+While Gemini API is one of the available options, it usually comes with usage limits or charges. That’s why I’ll show you how to use a free API provider to create your own AI chatbot with Gemini API—100% free!"
